@@ -5,6 +5,8 @@
 #include <iostream>
 
 #include "parameter_input.hpp"
+#include "athena.hpp"
+#include "mesh/mesh.hpp"
 #include "pgen/pgen.hpp"
 #include "solar/common/solar_module_test.hpp"
 
